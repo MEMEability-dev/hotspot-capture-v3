@@ -1,0 +1,5 @@
+{
+  "name": "FundFlow AI",
+  "description": "A professional dashboard for visualizing fund market values, performance history, and generating real-time AI financial insights using Gemini.",
+  "requestFramePermissions": []
+}
